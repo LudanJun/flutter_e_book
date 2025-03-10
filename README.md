@@ -1,7 +1,9 @@
 # flutter_e_book
 看书app
 
-目前只写了首页
+ebook-final 是原作者完整版
+
+flutter_e_book 是自己写的目前只写了首页
 
 使用的第三方包
 
